@@ -1,0 +1,19 @@
+BERT IPYNB
+CAUTION!!!!!!!! WILL TAKE  4-5 HOURS TO LOAD 
+The trained model has been downloaded under the saved_bert_model. If you want to play around it can use the model in the drive. 
+Need to upload the dataset inside the drive to run the code. (WELFake_Dataset.csv)
+
+LSTM IPYNB
+This one will take around 2-3 hour to load 
+This one if you want to load the model also needs to load the dataset as per above. (WELFake_Dataset.csv)
+This notebook also runs the evaluation part for both models and the BERT outperform. 
+The model is saved under the LSTM folder in the drive. 
+
+GRADIO IPYNB
+RECOMMEND TO TRY THIS TO PLAY AROUND WITH THE PRODUCT. 
+This notebook will require you to save the BERT model folder on your own drive.  
+Go to Shared with me in your siswa drive, then go into the folder name (NLP Group Project_Group16). Then go to the model folder name (saved_bert_model) at the three dots and click Organize and add a copy to your (My Drive). 
+This product used BERT as the model. 
+
+LSTM FINE TUNING IPYNB
+Doesn't take long timw to run within an hour. Require to upload data before proceed. 
